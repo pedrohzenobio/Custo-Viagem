@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Custoviagem</string>
+    <string name="magic">inicio da magica</string>
+    <string name="title">Custo de Viagem</string>
+    <string name="distance">Distância</string>
+    <string name="total_km">Total de quilômetros</string>
+    <string name="price">Preço</string>
+    <string name="price_lt">Preço por litro</string>
+    <string name="autonomy">Autonomia</string>
+    <string name="km_per_lt">KMs por Litro</string>
+    <string name="total_cost">Seu gasto total sera de:</string>
+    <string name="final_price">R$ 0</string>
+    <string name="calculate">Calcular</string>
+    <string name="validation_fill_all_fieelds">Preencha todos os campos.</string>
+    <string name="not_zero">Campo não pode ser igual a 0.</string>
+</resources>
